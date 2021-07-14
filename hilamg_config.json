@@ -1,0 +1,16 @@
+{
+	"dc_options": [
+		{
+			"dc_id": 2,
+			"ip_address": "139.159.221.223",
+			"ip_port": 12345
+		},
+		{
+			"dc_id": 2,
+			"ip_address": "im.hilamg.cn",
+			"ip_port": 12345
+		}
+	],
+	"dc_options_speed_time":900,
+	"dc_options_cnd_time":1800
+}
