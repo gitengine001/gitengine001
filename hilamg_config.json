@@ -43,11 +43,13 @@
 		"windows": {
 			"platform": "windows",
 			"force": false,
-			"version": "",
-			"md5": "",
-			"size": 0,
-			"date": "",
-			"download_url": [],
+			"version": "1.0.6",
+			"md5": "048bb15c0848eb935bbc6e0b5f7f8e02",
+			"size": 27522660,
+			"date": "2021-08-20 19-03:16",
+			"download_url": [
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/HilamgSetup.exe"
+			],
 			"content": []
 		}
 	},
