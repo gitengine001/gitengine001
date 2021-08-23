@@ -4,11 +4,6 @@
 			"dc_id": 2,
 			"ip_address": "139.9.51.18",
 			"ip_port": 12345
-		},
-		{
-			"dc_id": 2,
-			"ip_address": "139.159.221.223",
-			"ip_port": 12345
 		}
 	],
 	"version": {
