@@ -2,12 +2,7 @@
 	"dc_options": [
 		{
 			"dc_id": 2,
-			"ip_address": "139.9.51.18",
-			"ip_port": 12345
-		},
-		{
-			"dc_id": 2,
-			"ip_address": "139.159.221.223",
+			"ip_address": "im.hilamg.cn",
 			"ip_port": 12345
 		}
 	],
@@ -15,10 +10,10 @@
 		"android": {
 			"platform": "android",
 			"force": false,
-			"version": "1.0.50",
-			"md5": "e46d5d5c85fd1d2d31c3f0aa72fd0287",
-			"size": 30911120,
-			"date": "2021-08-23 15:26:03",
+			"version": "1.5.1",
+			"md5": "9666ce3480b48aa7d51217b432a00361",
+			"size": 30915419,
+			"date": "2021-10-14 14:32:00",
 			"download_url": [
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_1_0_50.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_1_0_50.apk"
