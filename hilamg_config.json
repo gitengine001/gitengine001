@@ -18,7 +18,8 @@
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_1_0_50.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_1_0_50.apk"
 			],
-			"content": []
+			"content": [],
+			"ad_switch": true
 		},
 		"ios": {
 			"platform": "ios",
