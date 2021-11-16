@@ -1,11 +1,9 @@
 {
-	"dc_options": [
-		{
-			"dc_id": 2,
-			"ip_address": "im.hilamg.cn",
-			"ip_port": 12345
-		}
-	],
+	"dc_options": [{
+		"dc_id": 2,
+		"ip_address": "im.hilamg.cn",
+		"ip_port": 12345
+	}],
 	"version": {
 		"android": {
 			"platform": "android",
@@ -23,14 +21,15 @@
 		},
 		"ios": {
 			"platform": "ios",
-			"force": false,
-			"version": "1.0.0",
+			"force": true,
+			"version": "1.0.7",
 			"md5": "",
 			"size": 0,
 			"date": "2021 08-18 17:36:30",
 			"download_url": [
 				"https://apps.apple.com/cn/app/id1562803681"
 			],
+			"switch_version_force": true,
 			"content": []
 		},
 		"web": {
@@ -56,13 +55,11 @@
 			"content": []
 		}
 	},
-	"dc_options_beta": [
-		{
-			"dc_id": 2,
-			"ip_address": "118.195.192.133",
-			"ip_port": 12345
-		}
-	],
+	"dc_options_beta": [{
+		"dc_id": 2,
+		"ip_address": "118.195.192.133",
+		"ip_port": 12345
+	}],
 	"version_beta": {
 		"android": {
 			"platform": "android",
@@ -71,8 +68,7 @@
 			"md5": "9666ce3480b48aa7d51217b432a00361",
 			"size": 30915419,
 			"date": "2021-10-14 14:32:00",
-			"download_url": [
-			],
+			"download_url": [],
 			"content": []
 		}
 	},
