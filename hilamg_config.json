@@ -1,7 +1,7 @@
 {
 	"dc_options": [{
 		"dc_id": 2,
-		"ip_address": "im.hilamg.cn",
+		"ip_address": "121.37.214.247",
 		"ip_port": 12345
 	}],
 	"version": {
@@ -29,7 +29,7 @@
 			"download_url": [
 				"https://apps.apple.com/cn/app/id1562803681"
 			],
-			"switch_version_force": true,
+			"switch_version_force": false,
 			"content": []
 		},
 		"web": {
