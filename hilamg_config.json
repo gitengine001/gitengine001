@@ -58,7 +58,7 @@
 	"dc_options_beta": [{
 		"dc_id": 2,
 		"ip_address": "118.195.192.133",
-		"ip_port": 7080
+		"ip_port": 12345
 	}],
 	"version_beta": {
 		"android": {
