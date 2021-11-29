@@ -58,7 +58,7 @@
 	"dc_options_beta": [{
 		"dc_id": 2,
 		"ip_address": "118.195.192.133",
-		"ip_port": 12345
+		"ip_port": 7080
 	}],
 	"version_beta": {
 		"android": {
@@ -69,6 +69,62 @@
 			"size": 30915419,
 			"date": "2021-10-14 14:32:00",
 			"download_url": [],
+			"content": []
+		}
+	},
+	"dc_options_v2": [{
+		"dc_id": 2,
+		"ip_address": "103.239.246.94",
+		"ip_port": 443
+	}],
+	"version_v2": {
+		"android": {
+			"platform": "android",
+			"force": false,
+			"version": "1.5.1",
+			"md5": "9666ce3480b48aa7d51217b432a00361",
+			"size": 30915419,
+			"date": "2021-10-14 14:32:00",
+			"download_url": [
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_1_0_50.apk",
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_1_0_50.apk"
+			],
+			"content": [],
+			"ad_switch": true
+		},
+		"ios": {
+			"platform": "ios",
+			"force": true,
+			"version": "1.0.7",
+			"md5": "",
+			"size": 0,
+			"date": "2021 08-18 17:36:30",
+			"download_url": [
+				"https://apps.apple.com/cn/app/id1562803681"
+			],
+			"switch_version_force": false,
+			"content": []
+		},
+		"web": {
+			"platform": "web",
+			"force": false,
+			"version": "",
+			"md5": "",
+			"size": 0,
+			"date": "",
+			"download_url": [],
+			"content": []
+		},
+		"windows": {
+			"platform": "windows",
+			"force": false,
+			"version": "1.0.6",
+			"md5": "048bb15c0848eb935bbc6e0b5f7f8e02",
+			"size": 27522660,
+			"date": "2021-08-20 19-03:16",
+			"download_url": [
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/HilamgSetup.exe"
+			],
 			"content": []
 		}
 	},
