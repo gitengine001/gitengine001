@@ -16,7 +16,7 @@
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
 			],
-			"content": [],
+			"content": ["老版本将即日起陆续终止部分功能的使用，请务必完成升级；\n新版本完成了技术升级，将带给你全新的体验。"],
 			"ad_switch": true
 		},
 		"ios": {
