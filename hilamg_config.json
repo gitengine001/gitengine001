@@ -8,10 +8,10 @@
 		"android": {
 			"platform": "android",
 			"force": false,
-			"version": "2.0.1",
-			"md5": "832d83883f63154c39d233fffd0c8fd8",
-			"size": 60819419,
-			"date": "2021-12-28 17:10:00",
+			"version": "2.0.2",
+			"md5": "fd4fd9a20e9f29aa0d824b4d08b4633c",
+			"size": 60607539,
+			"date": "2021-12-28 21:53:00",
 			"download_url": [
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
@@ -81,10 +81,10 @@
 		"android": {
 			"platform": "android",
 			"force": false,
-			"version": "2.0.1",
-			"md5": "832d83883f63154c39d233fffd0c8fd8",
-			"size": 60819419,
-			"date": "2021-12-28 17:10:00",
+			"version": "2.0.2",
+			"md5": "fd4fd9a20e9f29aa0d824b4d08b4633c",
+			"size": 60607539,
+			"date": "2021-12-28 21:53:00",
 			"download_url": [
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
