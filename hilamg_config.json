@@ -75,13 +75,18 @@
 	"dc_options_v2": [
 	{
 		"dc_id": 2,
-		"ip_address": "im2.hilamg.com",
+		"ip_address": "8.134.67.243",
 		"ip_port": 443
 	},
 	{
 		"dc_id": 2,
-		"ip_address": "im2.hilamg.com",
+		"ip_address": "8.134.67.243",
 		"ip_port": 5686
+	},
+	{
+		"dc_id": 2,
+		"ip_address": "8.134.67.243",
+		"ip_port": 5222
 	}
 	],
 	"version_v2": {
