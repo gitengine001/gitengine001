@@ -106,7 +106,7 @@
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
 			],
-			"content": [],
+			"content": ["1. 修复连接问题\n2. 修复已经BUG"],
 			"ad_switch": true
 		},
 		"ios": {
