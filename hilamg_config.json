@@ -75,12 +75,12 @@
 	"dc_options_v2": [
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "139.159.180.109",
 		"ip_port": 443
 	},
 	{
 		"dc_id": 2,
-		"ip_address": "139.159.180.109",
+		"ip_address": "8.134.67.243",
 		"ip_port": 443
 	},
 	{
