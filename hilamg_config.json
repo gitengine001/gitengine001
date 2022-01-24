@@ -72,6 +72,25 @@
 			"content": []
 		}
 	},
+	"dc_options_meta": [
+	{
+		"dc_id": 2,
+		"ip_address": "118.195.192.133",
+		"ip_port": 12345
+	}],
+	"version_meta": {
+		"android": {
+			"platform": "android",
+			"force": false,
+			"version": "2.0.0",
+			"md5": "9666ce3480b48aa7d51217b432a00361",
+			"size": 30915419,
+			"date": "2021-10-14 14:32:00",
+			"download_url": [
+			],
+			"content": []
+		}
+	},
 	"dc_options_v2": [
 	{
 		"dc_id": 2,
