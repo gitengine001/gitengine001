@@ -7,14 +7,13 @@
 	"version": {
 		"android": {
 			"platform": "android",
-			"force": false,
-			"version": "2.0.4",
-			"md5": "008d82e354239ef5a70c00c85f47cea6",
-			"size": 60633529,
-			"date": "2021-12-31 19:00:00",
+			"force": true,
+			"version": "2.0.7",
+			"md5": "ef73a6803fc0d4466e276072dcc74ac7",
+			"size": 64314983,
+			"date": "2022-1-29 10:01:00",
 			"download_url": [
-				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk",
-				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg-2.0.7-office-release.apk"
 			],
 			"content": ["老版本将即日起陆续终止部分功能的使用，请务必完成升级；\n新版本完成了技术升级，将带给你全新的体验。"],
 			"ad_switch": true
