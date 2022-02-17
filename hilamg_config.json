@@ -127,16 +127,16 @@
 	"version_v2": {
 		"android": {
 			"platform": "android",
-			"force": false,
-			"version": "2.0.6",
-			"md5": "ef73a6803fc0d4466e276072dcc74ac7",
-			"size": 64314983,
-			"date": "2022-1-25 12:01:00",
+			"force": true,
+			"version": "2.1.1",
+			"md5": "d3690f63b1d477f7eeba09b8fdc78ecf",
+			"size": 61595647,
+			"date": "2022-2-17 12:01:00",
 			"download_url": [
-				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk",
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg-2.1.1-office-release.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
 			],
-			"content": ["1.修复已知BUG"],
+			"content": ["1.新增 VIP 功能\n 2.修复已知BUG"],
 			"ad_switch": true
 		},
 		"ios": {
