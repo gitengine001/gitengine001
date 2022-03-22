@@ -127,7 +127,7 @@
 	"version_v2": {
 		"android": {
 			"platform": "android",
-			"force": true,
+			"force": false,
 			"version": "2.2.2",
 			"md5": "f1886cf7fa600a1ff24b863f19348383",
 			"size": 62163270,
