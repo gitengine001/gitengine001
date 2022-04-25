@@ -128,12 +128,12 @@
 		"android": {
 			"platform": "android",
 			"force": false,
-			"version": "2.2.2",
-			"md5": "f1886cf7fa600a1ff24b863f19348383",
-			"size": 62163270,
-			"date": "2022-3-2 9:55:00",
+			"version": "2.2.5",
+			"md5": "d618df27dd063417a4103b02650221bd",
+			"size": 62146853,
+			"date": "2022-4-25 19:35:00",
 			"download_url": [
-				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg-office-2.2.2-release.apk",
+				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg-2.2.5-office-release.apk",
 				"https://hilamg.oss-cn-guangzhou.aliyuncs.com/Hilamg_v2.apk"
 			],
 			"content": ["1.修复已知BUG"],
