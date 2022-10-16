@@ -74,7 +74,7 @@
 	"dc_options_meta": [
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 443
 	}],
 	"version_meta": {
@@ -93,34 +93,34 @@
 	"dc_options_v2": [
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 5222
 	},
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 443
 	},
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 5686
 	},
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 5222
 	}
 	],
 	"dc_options_ios_v2": [
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 5222
 	},
 	{
 		"dc_id": 2,
-		"ip_address": "8.134.67.243",
+		"ip_address": "8.134.121.143",
 		"ip_port": 443
 	}
 	],
